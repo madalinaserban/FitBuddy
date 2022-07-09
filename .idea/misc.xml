@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/drawable-v24/circle.xml" value="0.127" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/drawable-v24/ic_arrow_right.xml" value="0.127" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/drawable-v24/ic_done.xml" value="0.127" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1645" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/drawable/back_to_home_button.xml" value="0.1" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.1055" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.1055" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1645" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1645" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.1645" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.1645" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.1055" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/drawable/rounded_editetext.xml" value="0.114" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/drawable/rounded_edittext.xml" value="0.114" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/drawable/side_nav_bar.xml" value="0.1645" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/layout/activity_find_my_gym.xml" value="0.1640625" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/layout/activity_main.xml" value="0.14130434782608695" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/layout/activity_main2.xml" value="0.1796875" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/layout/activity_main3.xml" value="0.1796875" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/layout/activity_maps.xml" value="0.1796875" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/layout/app_bar_main2.xml" value="0.14666666666666667" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/layout/card_layout.xml" value="0.16041666666666668" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/layout/content_main2.xml" value="0.1796875" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/layout/current_sign_fragment.xml" value="0.16041666666666668" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/layout/fragment_exercies_fragment.xml" value="0.1796875" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/layout/fragment_exercises_home.xml" value="0.16041666666666668" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/layout/fragment_first_screed.xml" value="0.1" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/layout/fragment_first_screen.xml" value="0.12" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/layout/fragment_gallery.xml" value="0.1796875" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/layout/fragment_home.xml" value="0.1796875" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/layout/fragment_how_active_are_you.xml" value="0.1796875" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/layout/fragment_item.xml" value="0.4466666666666667" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/layout/fragment_item_list.xml" value="0.1796875" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/layout/fragment_profile.xml" value="0.1" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/layout/fragment_scrolling.xml" value="0.1796875" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/layout/fragment_second_screen.xml" value="0.16666666666666666" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/layout/fragment_select_your_gender.xml" value="0.22" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/layout/fragment_sign_in.xml" value="0.22" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/layout/fragment_sign_up.xml" value="0.22" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/layout/fragment_slideshow.xml" value="0.1796875" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/layout/fragment_splash.xml" value="0.1" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/layout/fragment_steps_counter.xml" value="0.1796875" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/layout/fragment_third_screen.xml" value="0.14666666666666667" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/layout/fragment_view_pager.xml" value="0.1" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/layout/fragment_workouts_fragment.xml" value="0.13020833333333334" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/layout/item.xml" value="0.1" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/layout/nav_header_main2.xml" value="0.1796875" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/layout/workouts_blank.xml" value="0.1" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/menu/activity_main2_drawer.xml" value="0.1796875" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1796875" />
+        <entry key="..\:/DAC/FitBuddy/app/src/main/res/menu/main2.xml" value="0.1796875" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/drawable-v24/circle.xml" value="0.2895" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2895" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2895" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/drawable/ic_menu_camera.xml" value="0.2895" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.2895" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.2895" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.2895" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/drawable/rounded_editetext.xml" value="0.2895" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/drawable/rounded_edittext.xml" value="0.2895" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/layout/activity_find_my_gym.xml" value="0.19010416666666666" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/layout/activity_main.xml" value="0.18802083333333333" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/layout/activity_main2.xml" value="0.28541666666666665" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/layout/activity_profil.xml" value="0.28541666666666665" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/layout/activity_steps_counter.xml" value="0.28541666666666665" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/layout/app_bar_main2.xml" value="0.28541666666666665" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/layout/content_main2.xml" value="0.13880445795339413" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/layout/d.xml" value="0.14739583333333334" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/layout/fragment_blank.xml" value="0.19010416666666666" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/layout/fragment_daily_macro.xml" value="0.19010416666666666" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/layout/fragment_daily_macros.xml" value="0.264" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/layout/fragment_exercises_home.xml" value="0.19010416666666666" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/layout/fragment_first_screen.xml" value="0.28541666666666665" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/layout/fragment_food.xml" value="0.284375" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/layout/fragment_gallery.xml" value="0.28541666666666665" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/layout/fragment_home.xml" value="0.28541666666666665" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/layout/fragment_how_active_are_you.xml" value="0.28541666666666665" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/layout/fragment_profile.xml" value="0.33" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/layout/fragment_sign_in.xml" value="0.25" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/layout/fragment_sign_up.xml" value="0.22" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/layout/fragment_splash.xml" value="0.13880445795339413" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/layout/fragment_steps_counter.xml" value="0.25" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/layout/fragment_third_screen.xml" value="0.28541666666666665" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/layout/list_recipe.xml" value="0.2" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/layout/nav_header_main2.xml" value="0.1816123188405797" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/menu/activity_main2_drawer.xml" value="0.9" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/menu/main2.xml" value="0.28541666666666665" />
+        <entry key="..\:/Desktop/FitBuddy/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.142" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

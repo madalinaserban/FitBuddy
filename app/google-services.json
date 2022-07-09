@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "522905163158",
+    "project_id": "fitbuddy-af99c",
+    "storage_bucket": "fitbuddy-af99c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:522905163158:android:a9047967dd0d21ca30f9b7",
+        "android_client_info": {
+          "package_name": "com.example.fitbuddyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "522905163158-c6ijt54704khbekhv6uht3snat0t8e6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0iXIbTduYYDuF1sYtdpcZhRJkj2_TZiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "522905163158-c6ijt54704khbekhv6uht3snat0t8e6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

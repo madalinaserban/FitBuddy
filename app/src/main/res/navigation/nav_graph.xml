@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/splashFragment">
+
+    <fragment
+        android:id="@+id/splashFragment"
+        android:name="com.example.fitbuddyapp.authentication.SplashFragment"
+        android:label="fragment_splash"
+        tools:layout="@layout/fragment_splash" >
+        <action
+            android:id="@+id/action_splashFragment_to_viewPagerFragment"
+            app:destination="@id/viewPagerFragment" />
+        <action
+            android:id="@+id/action_splashFragment_to_signInFragment"
+            app:destination="@id/signInFragment" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/signInFragment"
+        android:name="com.example.fitbuddyapp.authentication.SignInFragment"
+        android:label="fragment_sign_in"
+        tools:layout="@layout/fragment_sign_in" >
+        <action
+            android:id="@+id/action_signInFragment_to_splashFragment"
+            app:destination="@id/splashFragment" />
+        <action
+            android:id="@+id/action_signInFragment_to_signUpFragment"
+            app:destination="@id/signUpFragment" />
+        <action
+            android:id="@+id/action_signInFragment_to_main2Activity"
+            app:destination="@id/main2Activity" />
+        <action
+            android:id="@+id/action_signInFragment_to_selectYourGenderFragment"
+            app:destination="@id/selectYourGenderFragment" />
+        <action
+            android:id="@+id/action_signInFragment_to_howActiveAreYou"
+            app:destination="@id/howActiveAreYou" />
+    </fragment>
+    <fragment
+        android:id="@+id/signUpFragment"
+        android:name="com.example.fitbuddyapp.authentication.SignUpFragment"
+        android:label="fragment_sign_up"
+        tools:layout="@layout/fragment_sign_up" >
+        <action
+            android:id="@+id/action_signUpFragment_to_splashFragment"
+            app:destination="@id/splashFragment" />
+        <action
+            android:id="@+id/action_signUpFragment_to_signInFragment"
+            app:destination="@id/signInFragment" />
+        <action
+            android:id="@+id/action_signUpFragment_to_selectYourGenderFragment"
+            app:destination="@id/selectYourGenderFragment" />
+    </fragment>
+    <activity
+        android:id="@+id/main2Activity"
+        android:name="com.example.fitbuddyapp.Main2Activity"
+        android:label="app_bar_main2"
+        tools:layout="@layout/app_bar_main2" >
+    </activity>
+    <fragment
+        android:id="@+id/viewPagerFragment"
+        android:name="onboarding.ViewPagerFragment"
+        android:label="fragment_view_pager"
+        tools:layout="@layout/fragment_view_pager" >
+        <action
+            android:id="@+id/action_viewPagerFragment_to_signInFragment"
+            app:destination="@id/signInFragment" />
+    </fragment>
+    <fragment
+        android:id="@+id/selectYourGenderFragment"
+        android:name="com.example.fitbuddyapp.authentication.SelectYourGenderFragment"
+        android:label="fragment_select_your_gender"
+        tools:layout="@layout/fragment_select_your_gender" >
+        <action
+            android:id="@+id/action_selectYourGenderFragment_to_signInFragment"
+            app:destination="@id/signInFragment" />
+        <action
+            android:id="@+id/action_selectYourGenderFragment_to_howActiveAreYou"
+            app:destination="@id/howActiveAreYou" />
+        <action
+            android:id="@+id/action_selectYourGenderFragment_to_main2Activity"
+            app:destination="@id/main2Activity" />
+    </fragment>
+    <fragment
+        android:id="@+id/howActiveAreYou"
+        android:name="com.example.fitbuddyapp.authentication.HowActiveAreYou"
+        android:label="fragment_how_active_are_you"
+        tools:layout="@layout/fragment_how_active_are_you" >
+        <action
+            android:id="@+id/action_howActiveAreYou_to_main2Activity"
+            app:destination="@id/main2Activity" />
+    </fragment>
+</navigation>
